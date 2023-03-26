@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0923a6e927f0f9e489fb7f5214be28a3, type: 3}
+  m_Name: Player Settings SO
+  m_EditorClassIdentifier: 
+  speedHorizontal: 5
+  speedForwards: 12
+  jumpHeight: 2.3
+  gravity: -30
+  lookSpeed: 15
+  lookMultiplier: 5
+  collisionKnockbackSpeed: 2
+  collisionKnockbackHeight: 1.5
+  collisionKnockbackDistance: 2
+  distanceDecimals: 0
+  minSpeedMultiplier: 1
+  maxSpeedMultiplier: 2
+  maxBoost: 10
+  distances:
+  - 2
+  - 7
+  - 10
+  - 16
+  dragonSpeed: 15
